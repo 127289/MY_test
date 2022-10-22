@@ -1,0 +1,23 @@
+{
+  "id": "3497469",
+  "name": "css 图标库",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "2076258",
+      "name": "客服",
+      "font_class": "kefu",
+      "unicode": "e88f",
+      "unicode_decimal": 59535
+    },
+    {
+      "icon_id": "1207",
+      "name": "可爱的",
+      "font_class": "keaide",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    }
+  ]
+}
